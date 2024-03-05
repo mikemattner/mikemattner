@@ -7,7 +7,7 @@
 (That's not very readable is it? 👆)                     
 
 - 👋 Hi, I’m @mikemattner
-- 🌱 I’m currently learning ... Vue 3
+- 🌱 I’m currently working with ... Vue 3
 - 📫 How to reach me ... info @ mikemattner.com
 
 <!---
